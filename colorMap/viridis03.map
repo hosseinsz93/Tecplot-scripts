@@ -1,0 +1,36 @@
+#!MC 1410
+$!CREATECOLORMAP 
+  NAME = 'Sequential - Viridis'
+  NUMCONTROLPOINTS = 2
+    CONTROLPOINT 1
+    {
+    COLORMAPFRACTION = 0.0
+    LEADRGB
+      {
+      R = 71
+      G = 24
+      B = 106
+      }
+    TRAILRGB
+      {
+      R = 71
+      G = 24
+      B = 106
+      }
+    }
+    CONTROLPOINT 2
+    {
+    COLORMAPFRACTION = 1.0
+    LEADRGB
+      {
+      R = 71
+      G = 24
+      B = 106
+      }
+    TRAILRGB
+      {
+      R = 71
+      G = 24
+      B = 106
+      }
+    }

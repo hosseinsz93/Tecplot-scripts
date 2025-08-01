@@ -1,0 +1,36 @@
+#!MC 1410
+$!CREATECOLORMAP 
+  NAME = 'Viridis Color 17'
+  NUMCONTROLPOINTS = 2
+    CONTROLPOINT 1
+    {
+    COLORMAPFRACTION = 0.0
+    LEADRGB
+      {
+      R = 32
+      G = 144
+      B = 140
+      }
+    TRAILRGB
+      {
+      R = 32
+      G = 144
+      B = 140
+      }
+    }
+    CONTROLPOINT 2
+    {
+    COLORMAPFRACTION = 1.0
+    LEADRGB
+      {
+      R = 32
+      G = 144
+      B = 140
+      }
+    TRAILRGB
+      {
+      R = 32
+      G = 144
+      B = 140
+      }
+    }

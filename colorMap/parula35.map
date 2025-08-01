@@ -1,0 +1,36 @@
+#!MC 1410
+$!CREATECOLORMAP 
+  NAME = 'Parula35'
+  NUMCONTROLPOINTS = 2
+  CONTROLPOINT 1
+    {
+    COLORMAPFRACTION = 0
+    LEADRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    TRAILRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    }
+  CONTROLPOINT 2
+    {
+    COLORMAPFRACTION = 1
+    LEADRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    TRAILRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    }

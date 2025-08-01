@@ -1,0 +1,36 @@
+#!MC 1410
+$!CREATECOLORMAP
+  NAME = "SolidGray"
+  NUMCONTROLPOINTS = 2
+  CONTROLPOINT 1
+    {
+    COLORMAPFRACTION = 0.0000
+    TRAILRGB
+      {
+      R = 150
+      G = 150
+      B = 150
+      }
+    LEADRGB
+      {
+      R = 150
+      G = 150
+      B = 150
+      }
+    }
+  CONTROLPOINT 2
+    {
+    COLORMAPFRACTION = 1.0000
+    TRAILRGB
+      {
+      R = 150
+      G = 150
+      B = 150
+      }
+    LEADRGB
+      {
+      R = 150
+      G = 150
+      B = 150
+      }
+    }

@@ -1,0 +1,1575 @@
+#!MC 1410
+$!CREATECOLORMAP 
+  NAME = 'Parula'
+  NUMCONTROLPOINTS = 49
+  CONTROLPOINT 1
+    {
+    COLORMAPFRACTION = 0
+    LEADRGB
+      {
+      R = 62
+      G = 39
+      B = 169
+      }
+    TRAILRGB
+      {
+      R = 62
+      G = 39
+      B = 169
+      }
+    }
+  CONTROLPOINT 2
+    {
+    COLORMAPFRACTION = 0.0208
+    LEADRGB
+      {
+      R = 65
+      G = 44
+      B = 185
+      }
+    TRAILRGB
+      {
+      R = 65
+      G = 44
+      B = 185
+      }
+    }
+  CONTROLPOINT 3
+    {
+    COLORMAPFRACTION = 0.0417
+    LEADRGB
+      {
+      R = 67
+      G = 49
+      B = 199
+      }
+    TRAILRGB
+      {
+      R = 67
+      G = 49
+      B = 199
+      }
+    }
+  CONTROLPOINT 4
+    {
+    COLORMAPFRACTION = 0.0625
+    LEADRGB
+      {
+      R = 69
+      G = 55
+      B = 214
+      }
+    TRAILRGB
+      {
+      R = 69
+      G = 55
+      B = 214
+      }
+    }
+  CONTROLPOINT 5
+    {
+    COLORMAPFRACTION = 0.0833
+    LEADRGB
+      {
+      R = 71
+      G = 61
+      B = 225
+      }
+    TRAILRGB
+      {
+      R = 71
+      G = 61
+      B = 225
+      }
+    }
+  CONTROLPOINT 6
+    {
+    COLORMAPFRACTION = 0.1042
+    LEADRGB
+      {
+      R = 72
+      G = 69
+      B = 234
+      }
+    TRAILRGB
+      {
+      R = 72
+      G = 69
+      B = 234
+      }
+    }
+  CONTROLPOINT 7
+    {
+    COLORMAPFRACTION = 0.125
+    LEADRGB
+      {
+      R = 72
+      G = 76
+      B = 240
+      }
+    TRAILRGB
+      {
+      R = 72
+      G = 76
+      B = 240
+      }
+    }
+  CONTROLPOINT 8
+    {
+    COLORMAPFRACTION = 0.1458
+    LEADRGB
+      {
+      R = 72
+      G = 84
+      B = 246
+      }
+    TRAILRGB
+      {
+      R = 72
+      G = 84
+      B = 246
+      }
+    }
+  CONTROLPOINT 9
+    {
+    COLORMAPFRACTION = 0.1667
+    LEADRGB
+      {
+      R = 71
+      G = 91
+      B = 250
+      }
+    TRAILRGB
+      {
+      R = 71
+      G = 91
+      B = 250
+      }
+    }
+  CONTROLPOINT 10
+    {
+    COLORMAPFRACTION = 0.1875
+    LEADRGB
+      {
+      R = 69
+      G = 99
+      B = 253
+      }
+    TRAILRGB
+      {
+      R = 69
+      G = 99
+      B = 253
+      }
+    }
+  CONTROLPOINT 11
+    {
+    COLORMAPFRACTION = 0.2083
+    LEADRGB
+      {
+      R = 66
+      G = 106
+      B = 255
+      }
+    TRAILRGB
+      {
+      R = 66
+      G = 106
+      B = 255
+      }
+    }
+  CONTROLPOINT 12
+    {
+    COLORMAPFRACTION = 0.2292
+    LEADRGB
+      {
+      R = 60
+      G = 114
+      B = 255
+      }
+    TRAILRGB
+      {
+      R = 60
+      G = 114
+      B = 255
+      }
+    }
+  CONTROLPOINT 13
+    {
+    COLORMAPFRACTION = 0.25
+    LEADRGB
+      {
+      R = 52
+      G = 123
+      B = 254
+      }
+    TRAILRGB
+      {
+      R = 52
+      G = 123
+      B = 254
+      }
+    }
+  CONTROLPOINT 14
+    {
+    COLORMAPFRACTION = 0.2708
+    LEADRGB
+      {
+      R = 47
+      G = 130
+      B = 251
+      }
+    TRAILRGB
+      {
+      R = 47
+      G = 130
+      B = 251
+      }
+    }
+  CONTROLPOINT 15
+    {
+    COLORMAPFRACTION = 0.2917
+    LEADRGB
+      {
+      R = 45
+      G = 137
+      B = 246
+      }
+    TRAILRGB
+      {
+      R = 45
+      G = 137
+      B = 246
+      }
+    }
+  CONTROLPOINT 16
+    {
+    COLORMAPFRACTION = 0.3125
+    LEADRGB
+      {
+      R = 44
+      G = 144
+      B = 241
+      }
+    TRAILRGB
+      {
+      R = 44
+      G = 144
+      B = 241
+      }
+    }
+  CONTROLPOINT 17
+    {
+    COLORMAPFRACTION = 0.3333
+    LEADRGB
+      {
+      R = 39
+      G = 151
+      B = 236
+      }
+    TRAILRGB
+      {
+      R = 39
+      G = 151
+      B = 236
+      }
+    }
+  CONTROLPOINT 18
+    {
+    COLORMAPFRACTION = 0.3542
+    LEADRGB
+      {
+      R = 37
+      G = 157
+      B = 231
+      }
+    TRAILRGB
+      {
+      R = 37
+      G = 157
+      B = 231
+      }
+    }
+  CONTROLPOINT 19
+    {
+    COLORMAPFRACTION = 0.375
+    LEADRGB
+      {
+      R = 33
+      G = 164
+      B = 228
+      }
+    TRAILRGB
+      {
+      R = 33
+      G = 164
+      B = 228
+      }
+    }
+  CONTROLPOINT 20
+    {
+    COLORMAPFRACTION = 0.3958
+    LEADRGB
+      {
+      R = 29
+      G = 170
+      B = 225
+      }
+    TRAILRGB
+      {
+      R = 29
+      G = 170
+      B = 225
+      }
+    }
+  CONTROLPOINT 21
+    {
+    COLORMAPFRACTION = 0.4167
+    LEADRGB
+      {
+      R = 23
+      G = 175
+      B = 219
+      }
+    TRAILRGB
+      {
+      R = 23
+      G = 175
+      B = 219
+      }
+    }
+  CONTROLPOINT 22
+    {
+    COLORMAPFRACTION = 0.4375
+    LEADRGB
+      {
+      R = 12
+      G = 180
+      B = 212
+      }
+    TRAILRGB
+      {
+      R = 12
+      G = 180
+      B = 212
+      }
+    }
+  CONTROLPOINT 23
+    {
+    COLORMAPFRACTION = 0.4583
+    LEADRGB
+      {
+      R = 1
+      G = 184
+      B = 203
+      }
+    TRAILRGB
+      {
+      R = 1
+      G = 184
+      B = 203
+      }
+    }
+  CONTROLPOINT 24
+    {
+    COLORMAPFRACTION = 0.4792
+    LEADRGB
+      {
+      R = 3
+      G = 188
+      B = 195
+      }
+    TRAILRGB
+      {
+      R = 3
+      G = 188
+      B = 195
+      }
+    }
+  CONTROLPOINT 25
+    {
+    COLORMAPFRACTION = 0.5
+    LEADRGB
+      {
+      R = 18
+      G = 191
+      B = 186
+      }
+    TRAILRGB
+      {
+      R = 18
+      G = 191
+      B = 186
+      }
+    }
+  CONTROLPOINT 26
+    {
+    COLORMAPFRACTION = 0.5208
+    LEADRGB
+      {
+      R = 34
+      G = 194
+      B = 176
+      }
+    TRAILRGB
+      {
+      R = 34
+      G = 194
+      B = 176
+      }
+    }
+  CONTROLPOINT 27
+    {
+    COLORMAPFRACTION = 0.5417
+    LEADRGB
+      {
+      R = 45
+      G = 197
+      B = 167
+      }
+    TRAILRGB
+      {
+      R = 45
+      G = 197
+      B = 167
+      }
+    }
+  CONTROLPOINT 28
+    {
+    COLORMAPFRACTION = 0.5625
+    LEADRGB
+      {
+      R = 52
+      G = 200
+      B = 156
+      }
+    TRAILRGB
+      {
+      R = 52
+      G = 200
+      B = 156
+      }
+    }
+  CONTROLPOINT 29
+    {
+    COLORMAPFRACTION = 0.5833
+    LEADRGB
+      {
+      R = 61
+      G = 202
+      B = 145
+      }
+    TRAILRGB
+      {
+      R = 61
+      G = 202
+      B = 145
+      }
+    }
+  CONTROLPOINT 30
+    {
+    COLORMAPFRACTION = 0.6042
+    LEADRGB
+      {
+      R = 75
+      G = 204
+      B = 132
+      }
+    TRAILRGB
+      {
+      R = 75
+      G = 204
+      B = 132
+      }
+    }
+  CONTROLPOINT 31
+    {
+    COLORMAPFRACTION = 0.625
+    LEADRGB
+      {
+      R = 92
+      G = 205
+      B = 119
+      }
+    TRAILRGB
+      {
+      R = 92
+      G = 205
+      B = 119
+      }
+    }
+  CONTROLPOINT 32
+    {
+    COLORMAPFRACTION = 0.6458
+    LEADRGB
+      {
+      R = 110
+      G = 206
+      B = 104
+      }
+    TRAILRGB
+      {
+      R = 110
+      G = 206
+      B = 104
+      }
+    }
+  CONTROLPOINT 33
+    {
+    COLORMAPFRACTION = 0.6667
+    LEADRGB
+      {
+      R = 129
+      G = 205
+      B = 89
+      }
+    TRAILRGB
+      {
+      R = 129
+      G = 205
+      B = 89
+      }
+    }
+  CONTROLPOINT 34
+    {
+    COLORMAPFRACTION = 0.6875
+    LEADRGB
+      {
+      R = 148
+      G = 203
+      B = 74
+      }
+    TRAILRGB
+      {
+      R = 148
+      G = 203
+      B = 74
+      }
+    }
+  CONTROLPOINT 35
+    {
+    COLORMAPFRACTION = 0.7083
+    LEADRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    TRAILRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    }
+  CONTROLPOINT 36
+    {
+    COLORMAPFRACTION = 0.7292
+    LEADRGB
+      {
+      R = 185
+      G = 197
+      B = 49
+      }
+    TRAILRGB
+      {
+      R = 185
+      G = 197
+      B = 49
+      }
+    }
+  CONTROLPOINT 37
+    {
+    COLORMAPFRACTION = 0.75
+    LEADRGB
+      {
+      R = 201
+      G = 194
+      B = 41
+      }
+    TRAILRGB
+      {
+      R = 201
+      G = 194
+      B = 41
+      }
+    }
+  CONTROLPOINT 38
+    {
+    COLORMAPFRACTION = 0.7708
+    LEADRGB
+      {
+      R = 216
+      G = 191
+      B = 40
+      }
+    TRAILRGB
+      {
+      R = 216
+      G = 191
+      B = 40
+      }
+    }
+  CONTROLPOINT 39
+    {
+    COLORMAPFRACTION = 0.7917
+    LEADRGB
+      {
+      R = 230
+      G = 188
+      B = 45
+      }
+    TRAILRGB
+      {
+      R = 230
+      G = 188
+      B = 45
+      }
+    }
+  CONTROLPOINT 40
+    {
+    COLORMAPFRACTION = 0.8125
+    LEADRGB
+      {
+      R = 242
+      G = 186
+      B = 55
+      }
+    TRAILRGB
+      {
+      R = 242
+      G = 186
+      B = 55
+      }
+    }
+  CONTROLPOINT 41
+    {
+    COLORMAPFRACTION = 0.8333
+    LEADRGB
+      {
+      R = 253
+      G = 188
+      B = 62
+      }
+    TRAILRGB
+      {
+      R = 253
+      G = 188
+      B = 62
+      }
+    }
+  CONTROLPOINT 42
+    {
+    COLORMAPFRACTION = 0.8542
+    LEADRGB
+      {
+      R = 255
+      G = 195
+      B = 57
+      }
+    TRAILRGB
+      {
+      R = 255
+      G = 195
+      B = 57
+      }
+    }
+  CONTROLPOINT 43
+    {
+    COLORMAPFRACTION = 0.875
+    LEADRGB
+      {
+      R = 255
+      G = 203
+      B = 51
+      }
+    TRAILRGB
+      {
+      R = 255
+      G = 203
+      B = 51
+      }
+    }
+  CONTROLPOINT 44
+    {
+    COLORMAPFRACTION = 0.8958
+    LEADRGB
+      {
+      R = 252
+      G = 211
+      B = 47
+      }
+    TRAILRGB
+      {
+      R = 252
+      G = 211
+      B = 47
+      }
+    }
+  CONTROLPOINT 45
+    {
+    COLORMAPFRACTION = 0.9167
+    LEADRGB
+      {
+      R = 248
+      G = 220
+      B = 43
+      }
+    TRAILRGB
+      {
+      R = 248
+      G = 220
+      B = 43
+      }
+    }
+  CONTROLPOINT 46
+    {
+    COLORMAPFRACTION = 0.9375
+    LEADRGB
+      {
+      R = 246
+      G = 228
+      B = 39
+      }
+    TRAILRGB
+      {
+      R = 246
+      G = 228
+      B = 39
+      }
+    }
+  CONTROLPOINT 47
+    {
+    COLORMAPFRACTION = 0.9583
+    LEADRGB
+      {
+      R = 246
+      G = 236
+      B = 35
+      }
+    TRAILRGB
+      {
+      R = 246
+      G = 236
+      B = 35
+      }
+    }
+  CONTROLPOINT 48
+    {
+    COLORMAPFRACTION = 0.9792
+    LEADRGB
+      {
+      R = 248
+      G = 244
+      B = 29
+      }
+    TRAILRGB
+      {
+      R = 248
+      G = 244
+      B = 29
+      }
+    }
+  CONTROLPOINT 49
+    {
+    COLORMAPFRACTION = 1
+    LEADRGB
+      {
+      R = 250
+      G = 252
+      B = 20
+      }
+    TRAILRGB
+      {
+      R = 250
+      G = 252
+      B = 20
+      }
+    }
+$!CREATECOLORMAP 
+  NAME = 'Viridis'
+  NUMCONTROLPOINTS = 49
+  CONTROLPOINT 1
+    {
+    COLORMAPFRACTION = 0
+    LEADRGB
+      {
+      R = 62
+      G = 39
+      B = 169
+      }
+    TRAILRGB
+      {
+      R = 62
+      G = 39
+      B = 169
+      }
+    }
+  CONTROLPOINT 2
+    {
+    COLORMAPFRACTION = 0.0208
+    LEADRGB
+      {
+      R = 65
+      G = 44
+      B = 185
+      }
+    TRAILRGB
+      {
+      R = 65
+      G = 44
+      B = 185
+      }
+    }
+  CONTROLPOINT 3
+    {
+    COLORMAPFRACTION = 0.0417
+    LEADRGB
+      {
+      R = 67
+      G = 49
+      B = 199
+      }
+    TRAILRGB
+      {
+      R = 67
+      G = 49
+      B = 199
+      }
+    }
+  CONTROLPOINT 4
+    {
+    COLORMAPFRACTION = 0.0625
+    LEADRGB
+      {
+      R = 69
+      G = 55
+      B = 214
+      }
+    TRAILRGB
+      {
+      R = 69
+      G = 55
+      B = 214
+      }
+    }
+  CONTROLPOINT 5
+    {
+    COLORMAPFRACTION = 0.0833
+    LEADRGB
+      {
+      R = 71
+      G = 61
+      B = 225
+      }
+    TRAILRGB
+      {
+      R = 71
+      G = 61
+      B = 225
+      }
+    }
+  CONTROLPOINT 6
+    {
+    COLORMAPFRACTION = 0.1042
+    LEADRGB
+      {
+      R = 72
+      G = 69
+      B = 234
+      }
+    TRAILRGB
+      {
+      R = 72
+      G = 69
+      B = 234
+      }
+    }
+  CONTROLPOINT 7
+    {
+    COLORMAPFRACTION = 0.125
+    LEADRGB
+      {
+      R = 72
+      G = 76
+      B = 240
+      }
+    TRAILRGB
+      {
+      R = 72
+      G = 76
+      B = 240
+      }
+    }
+  CONTROLPOINT 8
+    {
+    COLORMAPFRACTION = 0.1458
+    LEADRGB
+      {
+      R = 72
+      G = 84
+      B = 246
+      }
+    TRAILRGB
+      {
+      R = 72
+      G = 84
+      B = 246
+      }
+    }
+  CONTROLPOINT 9
+    {
+    COLORMAPFRACTION = 0.1667
+    LEADRGB
+      {
+      R = 71
+      G = 91
+      B = 250
+      }
+    TRAILRGB
+      {
+      R = 71
+      G = 91
+      B = 250
+      }
+    }
+  CONTROLPOINT 10
+    {
+    COLORMAPFRACTION = 0.1875
+    LEADRGB
+      {
+      R = 69
+      G = 99
+      B = 253
+      }
+    TRAILRGB
+      {
+      R = 69
+      G = 99
+      B = 253
+      }
+    }
+  CONTROLPOINT 11
+    {
+    COLORMAPFRACTION = 0.2083
+    LEADRGB
+      {
+      R = 66
+      G = 106
+      B = 255
+      }
+    TRAILRGB
+      {
+      R = 66
+      G = 106
+      B = 255
+      }
+    }
+  CONTROLPOINT 12
+    {
+    COLORMAPFRACTION = 0.2292
+    LEADRGB
+      {
+      R = 60
+      G = 114
+      B = 255
+      }
+    TRAILRGB
+      {
+      R = 60
+      G = 114
+      B = 255
+      }
+    }
+  CONTROLPOINT 13
+    {
+    COLORMAPFRACTION = 0.25
+    LEADRGB
+      {
+      R = 52
+      G = 123
+      B = 254
+      }
+    TRAILRGB
+      {
+      R = 52
+      G = 123
+      B = 254
+      }
+    }
+  CONTROLPOINT 14
+    {
+    COLORMAPFRACTION = 0.2708
+    LEADRGB
+      {
+      R = 47
+      G = 130
+      B = 251
+      }
+    TRAILRGB
+      {
+      R = 47
+      G = 130
+      B = 251
+      }
+    }
+  CONTROLPOINT 15
+    {
+    COLORMAPFRACTION = 0.2917
+    LEADRGB
+      {
+      R = 45
+      G = 137
+      B = 246
+      }
+    TRAILRGB
+      {
+      R = 45
+      G = 137
+      B = 246
+      }
+    }
+  CONTROLPOINT 16
+    {
+    COLORMAPFRACTION = 0.3125
+    LEADRGB
+      {
+      R = 44
+      G = 144
+      B = 241
+      }
+    TRAILRGB
+      {
+      R = 44
+      G = 144
+      B = 241
+      }
+    }
+  CONTROLPOINT 17
+    {
+    COLORMAPFRACTION = 0.3333
+    LEADRGB
+      {
+      R = 39
+      G = 151
+      B = 236
+      }
+    TRAILRGB
+      {
+      R = 39
+      G = 151
+      B = 236
+      }
+    }
+  CONTROLPOINT 18
+    {
+    COLORMAPFRACTION = 0.3542
+    LEADRGB
+      {
+      R = 37
+      G = 157
+      B = 231
+      }
+    TRAILRGB
+      {
+      R = 37
+      G = 157
+      B = 231
+      }
+    }
+  CONTROLPOINT 19
+    {
+    COLORMAPFRACTION = 0.375
+    LEADRGB
+      {
+      R = 33
+      G = 164
+      B = 228
+      }
+    TRAILRGB
+      {
+      R = 33
+      G = 164
+      B = 228
+      }
+    }
+  CONTROLPOINT 20
+    {
+    COLORMAPFRACTION = 0.3958
+    LEADRGB
+      {
+      R = 29
+      G = 170
+      B = 225
+      }
+    TRAILRGB
+      {
+      R = 29
+      G = 170
+      B = 225
+      }
+    }
+  CONTROLPOINT 21
+    {
+    COLORMAPFRACTION = 0.4167
+    LEADRGB
+      {
+      R = 23
+      G = 175
+      B = 219
+      }
+    TRAILRGB
+      {
+      R = 23
+      G = 175
+      B = 219
+      }
+    }
+  CONTROLPOINT 22
+    {
+    COLORMAPFRACTION = 0.4375
+    LEADRGB
+      {
+      R = 12
+      G = 180
+      B = 212
+      }
+    TRAILRGB
+      {
+      R = 12
+      G = 180
+      B = 212
+      }
+    }
+  CONTROLPOINT 23
+    {
+    COLORMAPFRACTION = 0.4583
+    LEADRGB
+      {
+      R = 1
+      G = 184
+      B = 203
+      }
+    TRAILRGB
+      {
+      R = 1
+      G = 184
+      B = 203
+      }
+    }
+  CONTROLPOINT 24
+    {
+    COLORMAPFRACTION = 0.4792
+    LEADRGB
+      {
+      R = 3
+      G = 188
+      B = 195
+      }
+    TRAILRGB
+      {
+      R = 3
+      G = 188
+      B = 195
+      }
+    }
+  CONTROLPOINT 25
+    {
+    COLORMAPFRACTION = 0.5
+    LEADRGB
+      {
+      R = 18
+      G = 191
+      B = 186
+      }
+    TRAILRGB
+      {
+      R = 18
+      G = 191
+      B = 186
+      }
+    }
+  CONTROLPOINT 26
+    {
+    COLORMAPFRACTION = 0.5208
+    LEADRGB
+      {
+      R = 34
+      G = 194
+      B = 176
+      }
+    TRAILRGB
+      {
+      R = 34
+      G = 194
+      B = 176
+      }
+    }
+  CONTROLPOINT 27
+    {
+    COLORMAPFRACTION = 0.5417
+    LEADRGB
+      {
+      R = 45
+      G = 197
+      B = 167
+      }
+    TRAILRGB
+      {
+      R = 45
+      G = 197
+      B = 167
+      }
+    }
+  CONTROLPOINT 28
+    {
+    COLORMAPFRACTION = 0.5625
+    LEADRGB
+      {
+      R = 52
+      G = 200
+      B = 156
+      }
+    TRAILRGB
+      {
+      R = 52
+      G = 200
+      B = 156
+      }
+    }
+  CONTROLPOINT 29
+    {
+    COLORMAPFRACTION = 0.5833
+    LEADRGB
+      {
+      R = 61
+      G = 202
+      B = 145
+      }
+    TRAILRGB
+      {
+      R = 61
+      G = 202
+      B = 145
+      }
+    }
+  CONTROLPOINT 30
+    {
+    COLORMAPFRACTION = 0.6042
+    LEADRGB
+      {
+      R = 75
+      G = 204
+      B = 132
+      }
+    TRAILRGB
+      {
+      R = 75
+      G = 204
+      B = 132
+      }
+    }
+  CONTROLPOINT 31
+    {
+    COLORMAPFRACTION = 0.625
+    LEADRGB
+      {
+      R = 92
+      G = 205
+      B = 119
+      }
+    TRAILRGB
+      {
+      R = 92
+      G = 205
+      B = 119
+      }
+    }
+  CONTROLPOINT 32
+    {
+    COLORMAPFRACTION = 0.6458
+    LEADRGB
+      {
+      R = 110
+      G = 206
+      B = 104
+      }
+    TRAILRGB
+      {
+      R = 110
+      G = 206
+      B = 104
+      }
+    }
+  CONTROLPOINT 33
+    {
+    COLORMAPFRACTION = 0.6667
+    LEADRGB
+      {
+      R = 129
+      G = 205
+      B = 89
+      }
+    TRAILRGB
+      {
+      R = 129
+      G = 205
+      B = 89
+      }
+    }
+  CONTROLPOINT 34
+    {
+    COLORMAPFRACTION = 0.6875
+    LEADRGB
+      {
+      R = 148
+      G = 203
+      B = 74
+      }
+    TRAILRGB
+      {
+      R = 148
+      G = 203
+      B = 74
+      }
+    }
+  CONTROLPOINT 35
+    {
+    COLORMAPFRACTION = 0.7083
+    LEADRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    TRAILRGB
+      {
+      R = 167
+      G = 200
+      B = 61
+      }
+    }
+  CONTROLPOINT 36
+    {
+    COLORMAPFRACTION = 0.7292
+    LEADRGB
+      {
+      R = 185
+      G = 197
+      B = 49
+      }
+    TRAILRGB
+      {
+      R = 185
+      G = 197
+      B = 49
+      }
+    }
+  CONTROLPOINT 37
+    {
+    COLORMAPFRACTION = 0.75
+    LEADRGB
+      {
+      R = 201
+      G = 194
+      B = 41
+      }
+    TRAILRGB
+      {
+      R = 201
+      G = 194
+      B = 41
+      }
+    }
+  CONTROLPOINT 38
+    {
+    COLORMAPFRACTION = 0.7708
+    LEADRGB
+      {
+      R = 216
+      G = 191
+      B = 40
+      }
+    TRAILRGB
+      {
+      R = 216
+      G = 191
+      B = 40
+      }
+    }
+  CONTROLPOINT 39
+    {
+    COLORMAPFRACTION = 0.7917
+    LEADRGB
+      {
+      R = 230
+      G = 188
+      B = 45
+      }
+    TRAILRGB
+      {
+      R = 230
+      G = 188
+      B = 45
+      }
+    }
+  CONTROLPOINT 40
+    {
+    COLORMAPFRACTION = 0.8125
+    LEADRGB
+      {
+      R = 242
+      G = 186
+      B = 55
+      }
+    TRAILRGB
+      {
+      R = 242
+      G = 186
+      B = 55
+      }
+    }
+  CONTROLPOINT 41
+    {
+    COLORMAPFRACTION = 0.8333
+    LEADRGB
+      {
+      R = 253
+      G = 188
+      B = 62
+      }
+    TRAILRGB
+      {
+      R = 253
+      G = 188
+      B = 62
+      }
+    }
+  CONTROLPOINT 42
+    {
+    COLORMAPFRACTION = 0.8542
+    LEADRGB
+      {
+      R = 255
+      G = 195
+      B = 57
+      }
+    TRAILRGB
+      {
+      R = 255
+      G = 195
+      B = 57
+      }
+    }
+  CONTROLPOINT 43
+    {
+    COLORMAPFRACTION = 0.875
+    LEADRGB
+      {
+      R = 255
+      G = 203
+      B = 51
+      }
+    TRAILRGB
+      {
+      R = 255
+      G = 203
+      B = 51
+      }
+    }
+  CONTROLPOINT 44
+    {
+    COLORMAPFRACTION = 0.8958
+    LEADRGB
+      {
+      R = 252
+      G = 211
+      B = 47
+      }
+    TRAILRGB
+      {
+      R = 252
+      G = 211
+      B = 47
+      }
+    }
+  CONTROLPOINT 45
+    {
+    COLORMAPFRACTION = 0.9167
+    LEADRGB
+      {
+      R = 248
+      G = 220
+      B = 43
+      }
+    TRAILRGB
+      {
+      R = 248
+      G = 220
+      B = 43
+      }
+    }
+  CONTROLPOINT 46
+    {
+    COLORMAPFRACTION = 0.9375
+    LEADRGB
+      {
+      R = 246
+      G = 228
+      B = 39
+      }
+    TRAILRGB
+      {
+      R = 246
+      G = 228
+      B = 39
+      }
+    }
+  CONTROLPOINT 47
+    {
+    COLORMAPFRACTION = 0.9583
+    LEADRGB
+      {
+      R = 246
+      G = 236
+      B = 35
+      }
+    TRAILRGB
+      {
+      R = 246
+      G = 236
+      B = 35
+      }
+    }
+  CONTROLPOINT 48
+    {
+    COLORMAPFRACTION = 0.9792
+    LEADRGB
+      {
+      R = 248
+      G = 244
+      B = 29
+      }
+    TRAILRGB
+      {
+      R = 248
+      G = 244
+      B = 29
+      }
+    }
+  CONTROLPOINT 49
+    {
+    COLORMAPFRACTION = 1
+    LEADRGB
+      {
+      R = 250
+      G = 252
+      B = 20
+      }
+    TRAILRGB
+      {
+      R = 250
+      G = 252
+      B = 20
+      }
+    }
