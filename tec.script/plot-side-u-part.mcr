@@ -16,23 +16,27 @@ $!VarSet |MFBD| = '.'
 $!VarSet |MovieSteps| = 100
 # $!VarSet |MovieSteps| = 50
 
-$!VarSet |IncludeText| = 0  # Do not include text in frame
-# $!VarSet |IncludeText| = 1  # Include text in frame
+$!VarSet |IncludeText| = 1  # Enable text overlay (1=on, 0=off)
+# $!VarSet |IncludeText| = 0  # Do not include text in frame
+
+# Physical time settings:
+$!VarSet |TimeMultiplier| = 0.00017  # Converts iteration to physical time
+$!VarSet |TimeUnits| = 's'          # Time units (e.g., 's', 'ms', 'μs')
 
 #$!VarSet |OutputType| = 'png'
 $!VarSet |OutputType| = 'mp4'
 
 
 $!VarSet |Dir| = '.'
-$!VarSet |BaseFilename| = 'animation-layout-side-Qcriterion'
+$!VarSet |BaseFilename| = 'tecplot'
 $!VarSet |LayoutName| = '|BaseFilename|.lay'
 $!VarSet |ParmImageWidth| = 1920
 # $!VarSet |ParmImageWidth| = 3000
 # $!VarSet |ParmImageWidth| = 3840
 
 
-$!VarSet |start| = 37600
-$!VarSet |stop|  = 50000
+$!VarSet |start| = 0
+$!VarSet |stop|  = 31000
 
 $!VarSet |resolution| = ''
 $!if |ParmImageWidth| == 1920
@@ -112,11 +116,11 @@ $!Loop |NumFiles|
 
 
 $!OPENLAYOUT  "|LayoutName|"
-ALTDATALOADINSTRUCTIONS = '"|Dir|/Result|no%06d|.plt" "|Dir|/surface|no%06d|_1.dat" "|Dir|/surface|no%06d|_2.dat" "|Dir|/surface|no%06d|_3.dat" "|Dir|/surface|no%06d|_4.dat" "|Dir|/surface|no%06d|_5.dat" "|Dir|/surface|no%06d|_6.dat" "|Dir|/surface|no%06d|_7.dat" "|Dir|/surface|no%06d|_8.dat" "|Dir|/surface|no%06d|_9.dat" "|Dir|/surface|no%06d|_10.dat"'
+ALTDATALOADINSTRUCTIONS = '"|Dir|/Result|no%06d|.plt" "|Dir|/surface|no%06d|_1.dat"'
 
 $!IF |IncludeText| == 1
     $!VarSet |TimeCounter| = |no|
-    $!VarSet |TimeCounter| *= 0.0005
+    $!VarSet |TimeCounter| *= |TimeMultiplier|
 
     $!AttachText
         TextShape {
@@ -125,9 +129,9 @@ $!IF |IncludeText| == 1
                   }
         XYPOS {
             X = 4.0
-            Y =8.0
+            Y = 8.0
               }
-        Text = "Time Step: |no%6d|  Time: |TimeCounter%.3f|"
+        Text = "Iteration: |no%6d|  |  Time: |TimeCounter%.4f| |TimeUnits|"
 $!ENDIF
 
 #$!REDRAWALL
